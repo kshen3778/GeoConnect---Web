@@ -1,0 +1,170 @@
+*{
+    font-family: Verdana;
+}
+
+
+/*navbar*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+#login-title{
+    color: White;
+    font-size:20px;
+    padding-top:10px;
+}
+#register-title{
+   color: White;
+    font-size:20px;
+    padding-top:10px; 
+}
+
+#register-field{
+    padding-bottom: 80px;
+    background-color: #006BAD;
+}
+#reg-username{
+    top:20px;
+    padding:5px;
+    background-color: #42A7FF;
+    border: none;
+}
+#reg-username::-webkit-input-placeholder {
+   color: #4A4A4A;
+}
+#reg-password{
+    top:30px;
+    padding:5px;
+    background-color: #42A7FF;
+    border: none;
+}
+#reg-password::-webkit-input-placeholder {
+   color: #4A4A4A;
+}
+#reg-email{
+    top:40px;
+    padding:5px;
+    background-color: #42A7FF;
+    border: none;
+}
+#reg-email::-webkit-input-placeholder {
+   color: #4A4A4A;
+}
+#reg-submit{
+    top:50px;
+    padding:5px;
+    border:none;
+    background-color:#ffffff;
+}
+#reg-submit:hover{
+    background-color:#308014;
+}
+
+#login-hr{
+    top:40px;
+    border:none;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 350, from(#fff), to(#006BAD));
+}
+
+
+#login-field{
+    position: relative;
+    padding-bottom:30px;
+    background-color: #006BAD;
+}
+#login-username{
+   position: relative;
+   top: 10px;
+   padding:5px;
+   border: none;
+}
+#login-username::-webkit-input-placeholder {
+   color: #4A4A4A;
+}
+#login-password{
+    position: relative;
+    top: 20px;
+    padding:5px;
+    border: none;
+}
+#login-password::-webkit-input-placeholder {
+   color: #4A4A4A;
+}
+#login-submit{
+    position: relative;
+    top: 30px;
+    border:none;
+    background-color:#00A32C;
+    padding:5px;
+    color:white;
+}
+#login-submit:hover{
+    background-color:#308014;
+}
+
+/*create waypoint*/
+
+#create-waypoint{
+    background-color: #006BAD;
+    padding-bottom: 140px;
+    border-radius: 20px;
+}
+#create-waypoint-title{
+    padding: 5px;
+    top:40px;
+}
+#create-waypoint-address{
+    padding: 5px;
+    top:50px;
+}
+#create-waypoint-info{
+    padding: 5px;
+    top:60px;
+}
+#create-waypoint-radius{
+    padding: 5px;
+    top:70px;
+}
+#create-waypoint-submit{
+    padding: 5px;
+    top:115px;
+    background-color: #00A32C;
+    border-color: #006BAD;
+    text-shadow:none;
+    border:none;
+    color: white;
+}
+#create-waypoint-submit:hover{
+    background-color: #308014;
+}
+#import-fake-facebook-event{
+    padding: 5px;
+    top:80px;
+    background-color: #3b5998;
+    border: 1px white solid;
+    color: bisque;
+    border-radius: 5px;
+}
+
+#video-title{
+    float:left;
+    top:-450px;
+}
+
+
+
+
+
+
+
+
+
